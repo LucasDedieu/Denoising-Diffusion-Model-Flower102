@@ -2,8 +2,6 @@
 
 This repository contains a notebook that implements a simple diffusion model from scratch on Flower102 dataset using PyTorch. The goal of this project is to train a Unet model to generate flower images from random noise.
 
-I was inspired by this video : https://www.youtube.com/watch?v=a4Yfz2FxXiY
-
 ## Table of Contents
 
 - [Introduction](#introduction)
