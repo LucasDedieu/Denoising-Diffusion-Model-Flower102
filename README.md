@@ -56,7 +56,7 @@ I have train the Unet model using a Nvidia 3080ti GPU. But with only 12GB of vra
 
 Here are some examples of generated images :
 
-![alt text](https://github.com/LucasDedieu/Denoising-Diffusion-Model-Flower102/results.png?raw=true)
+![alt text](https://github.com/LucasDedieu/Denoising-Diffusion-Model-Flower102/blob/main/results.PNG?raw=true)
 
 
 ## Contributing
