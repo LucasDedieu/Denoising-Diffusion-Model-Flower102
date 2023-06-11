@@ -7,6 +7,7 @@ This repository contains a notebook that implements a simple diffusion model fro
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Content](#content)
 - [Results](#results)
 - [Contributing](#contributing)
 
@@ -36,7 +37,7 @@ pip install -r requirements.txt
 
 4. Follow the instructions in the notebook to execute the code cells.
 
-## Results
+## Content
 
 The notebook will guide you through the following steps:
 
